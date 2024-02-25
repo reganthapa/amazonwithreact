@@ -6,9 +6,6 @@ import Breakpoint from './pages/Breakpoint';
 import Deals from './pages/Deals';
 import Cart from './pages/Cart';
 
-// components
-import Navbar from './component/Navbar';
-import Footer from './component/Footer';
 
 import './App.css';
 
